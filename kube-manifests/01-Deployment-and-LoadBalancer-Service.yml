@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image:  aksforacr.azurecr.io/venna:42
+          image:  azurecr.io/vennaazuredevopsgithubacrakshtmlappgit:72
           ports:
             - containerPort: 80
 ---
